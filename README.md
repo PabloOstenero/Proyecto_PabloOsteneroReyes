@@ -1,5 +1,4 @@
 # Planificación del proyecto
----
 
 ## Vista general
 
