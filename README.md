@@ -1,7 +1,4 @@
 # Planificación del proyecto
-
-**Autor:** Pablo Ostenero Reyes
-
 ---
 
 ## Vista general
